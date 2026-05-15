@@ -5,3 +5,4 @@ langchain-openai==1.2.1
 pypdf==6.11.0
 python-dotenv==1.2.2
 wikipedia==1.4.0
+langchain-experimental==0.4.1
